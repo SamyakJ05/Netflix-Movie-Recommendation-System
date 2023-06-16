@@ -46,9 +46,9 @@ cd netflix-recommendation-system
 pip install flask
 
 ```
-3) To run this application you don't need to have any special configuration but make sure you don't change the directory of the project otherwise you can recieve errors while you try to run the app.
+ To run this application you don't need to have any special configuration but make sure you don't change the directory of the project otherwise you can recieve errors while you try to run the app.
 
-4) You can run the Netflix React App using the following command from your terminal:
+ You can run the Netflix React App using the following command from your terminal:
 
 ``
 # Run the app
